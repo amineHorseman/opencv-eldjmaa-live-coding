@@ -16,5 +16,14 @@ Before starting the tutorial please make sure:
 
 In the first session we saw a general introduction to computer vision and OpenCV library.<br />
 We created a first program to read the video stream from the camera and display it in the screen.<br />
-The recording (in arabic) is available in the following in [Facebook](https://www.facebook.com/eldjmaa/videos/2390176714557133) or [Youtube](https://www.youtube.com/watch?v=MYJvJLctUMU). 
+The recording (in arabic) is available at:
+- [Facebook](https://www.facebook.com/eldjmaa/videos/2390176714557133)
+- [Youtube](https://www.youtube.com/watch?v=MYJvJLctUMU). 
+
+## Part2: 
+
+Face detection with HaarCascade and speech generation
+
+The recording (in arabic) is available at: 
+- [Facebook](https://www.facebook.com/eldjmaa/videos/531787320973273) 
 
