@@ -1,29 +1,28 @@
 # Introduction to Computer Vision using OpenCV and Python
 
 The following is a tutorial for OpenCV programing using Python.
-The tutorial is part of a livestreaming session recorded by ELdjmaa.
-You can check the link of the recording here:
+The tutorial is part of a livestreaming session (in Arabic, algerian dialect) recorded by ELdjmaa. 
+The tutorial assumes you know to basics of python programing (variables, loops, conditions)
 
-## Requirements: 
+## Pre-live: 
 
-Before starting the tutorial please make sure:
+The pre-live video showz you how to create an anaconda environemnt, install opencv on your machine, and how to switch opencv versions using different environemnts:
+- [Facebook](https://facebook.com/eldjmaa/videos/2913280648700379)
+- [Youtube](https://youtube.com/watch?v=6fMjMei7fCM)
 
-- You know the basics of Python programing.
-- You have installed a python3 environnemnt and Opencv library. 
-- I suggest you to install an Anaconda environemnt with OpenCV 
-
-## Part1: 
+## Live Part1: 
 
 In the first session we saw a general introduction to computer vision and OpenCV library.<br />
 We created a first program to read the video stream from the camera and display it in the screen.<br />
 The recording (in arabic) is available at:
-- [Facebook](https://www.facebook.com/eldjmaa/videos/2390176714557133)
-- [Youtube](https://www.youtube.com/watch?v=MYJvJLctUMU). 
+- [Facebook](https://facebook.com/eldjmaa/videos/2390176714557133)
+- [Youtube](https://youtube.com/watch?v=MYJvJLctUMU). 
 
-## Part2: 
+## Live Part2: 
 
-Face detection with HaarCascade and speech generation
+We added faces detection using HaarCascade, then we added text to speech  
 
 The recording (in arabic) is available at: 
-- [Facebook](https://www.facebook.com/eldjmaa/videos/531787320973273) 
+- [Facebook](https://facebook.com/eldjmaa/videos/531787320973273) 
+- [Youtube](https://youtube.com/watch?v=dJwOCKMEcZ8)
 
